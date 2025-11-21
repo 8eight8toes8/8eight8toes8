@@ -1,4 +1,4 @@
-# Jay Henderson
+# John Henderson
 
 **Cybersecurity Intern | SOC Analyst | Technical Writer**
 
