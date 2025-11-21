@@ -41,6 +41,6 @@ Cybersecurity Intern and Technical Writer specializing in SOC operations, networ
 
 - **CompTIA Network+** (Active)
 - **CompTIA A+** (Active)
-- **CompTIA Security+** (Certified 20XX–20XX, Renewal Pending)
+- **CompTIA Security+** (expired 05/25)
 - **HackTheBox Academy:** Completed modules in Linux Fundamentals, OS Fundamentals, Information Security Foundations, and SOC Analyst Prerequisites.
 - **Education:** Self-Directed Technical Education Track & Independent Study.
