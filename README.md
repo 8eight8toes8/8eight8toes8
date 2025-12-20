@@ -115,3 +115,88 @@
 ---
 
 *Self-taught cybersecurity professional passionate about SOC operations, security automation, and helping others learn cybersecurity through hands-on training platforms.*
+
+---
+
+### ⚙️ Git Workflow Guide
+
+**Disciplined Solo Development Pattern** - Multi-device safety workflow for test-to-production promotion
+
+#### 🎯 Use Case
+Syncing code between test repository (`Sec-PBQ-New_Features`) and production repository (`Sec-PBQ`) across 3 devices (Desktop, Laptop, Chromebook) without breaking production.
+
+#### 📋 Phase 1: Create Production Backup
+
+```bash
+cd ~/path/to/Sec-PBQ
+git checkout main
+git pull origin main
+git checkout -b main-release-backup
+git push -u origin main-release-backup
+```
+
+**Safety**: Creates frozen snapshot at `main-release-backup` for rollback if needed.
+
+#### 📋 Phase 2: Link Test Repo to Production
+
+```bash
+cd ~/path/to/Sec-PBQ-New_Features
+git remote add release git@github.com:8eight8toes8/Sec-PBQ.git
+git remote -v  # verify both 'origin' and 'release' remotes
+```
+
+#### 📋 Phase 3: Create Sync Branch in Test Repo
+
+```bash
+git checkout main
+git pull origin main
+git checkout -b pbq-sync-v2
+git add .
+git commit -m "Sync PBQ features and fixes to production"
+npm start  # test locally before syncing
+```
+
+#### 📋 Phase 4: Push Sync Branch to Production
+
+```bash
+git push release pbq-sync-v2
+```
+
+**Result**: Production repo now has `pbq-sync-v2` branch with new code.
+
+#### 📋 Phase 5: Merge into Production Main
+
+```bash
+cd ~/path/to/Sec-PBQ
+git fetch origin
+git checkout main
+git pull origin main
+git checkout pbq-sync-v2  # optional: verify/test
+git checkout main
+git merge pbq-sync-v2
+git push origin main
+```
+
+#### 📋 Phase 6: Cleanup
+
+```bash
+git branch -d pbq-sync-v2
+git push origin --delete pbq-sync-v2
+```
+
+#### ⚡ Why This Works for Multi-Device Setup
+
+- **Desktop**: Creates and tests sync branch
+- **Chromebook**: Runs `git pull origin main` → gets tested code
+- **Laptop**: Runs `git pull origin main` → gets tested code
+- **Backup**: `main-release-backup` branch allows instant rollback
+
+#### 🚨 Rollback (If Needed)
+
+```bash
+git checkout main
+git reset --hard origin/main-release-backup
+git push --force origin main  # use with caution
+```
+
+---
