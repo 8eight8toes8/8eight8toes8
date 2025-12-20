@@ -17,6 +17,7 @@
 
 ### 💼 Recent Accomplishments (December 2025)
 
+ - ✅ **SANS Academy Acceptance (Winter 2025)** - Selected for highly competitive cybersecurity scholarship program
 - ✅ **Sec-PBQ Platform Refactoring** - Promoted new feature branch to production, implemented professional documentation
 - ✅ **Repository Management** - Organized and archived legacy projects with clear version control strategies
 - ✅ **Technical Documentation** - Created comprehensive READMEs with proper descriptions, topics, and professional structure
