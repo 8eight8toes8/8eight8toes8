@@ -40,6 +40,7 @@ Cybersecurity Intern and Technical Writer specializing in SOC operations, networ
 
 ## EDUCATION & CERTIFICATIONS
 
+ - **SANS Academy - Winter 2025** (Competitive scholarship recipient for advanced cybersecurity training)
 - **CompTIA Network+** (Active)
 - **CompTIA A+** (Active)
 - **CompTIA Security+** (expired 05/25)
