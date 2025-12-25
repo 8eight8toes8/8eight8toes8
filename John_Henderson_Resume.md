@@ -26,7 +26,7 @@ Cybersecurity Intern and Technical Writer specializing in SOC operations, networ
 - **Network Defense Analysis:** Conducted and documented Nmap SOC scanning operations, specifically focusing on DMZ firewall evasion techniques and SIEM log integration.
 - **Workflow Optimization:** Created technical write-ups to support internal SOC workflow optimization and incident automation.
 - **Web Development:** Deployed internal web application tools using Node.js and AI Studio to assist in deployment automation.
--  - **Sec-PBQ Platform Development (December 2025):** Led complete refactoring and promotion of Security+ PBQ training platform. Migrated feature branch to production, implemented professional documentation with comprehensive READMEs, established repository organization best practices, and archived legacy codebases with proper version control strategies.
+-  - **Sec-PBQ Platform Development (December 2024):** Led complete refactoring and promotion of Security+ PBQ training platform. Migrated feature branch to production, implemented professional documentation with comprehensive READMEs, established repository organization best practices, and archived legacy codebases with proper version control strategies.
 
 ### Web Application Developer | Self-Hosted Project
 **2024**
@@ -43,6 +43,6 @@ Cybersecurity Intern and Technical Writer specializing in SOC operations, networ
  - **SANS Academy - Winter 2025** (Competitive scholarship recipient for advanced cybersecurity training)
 - **CompTIA Network+** (Active)
 - **CompTIA A+** (Active)
-- **CompTIA Security+** (expired 05/25)
+- **CompTIA Security+** (expired 05/24)
 - **HackTheBox Academy:** Completed modules in Linux Fundamentals, OS Fundamentals, Information Security Foundations, and SOC Analyst Prerequisites.
 - **Education:** Self-Directed Technical Education Track & Independent Study.

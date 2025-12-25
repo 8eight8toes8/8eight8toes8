@@ -8,14 +8,14 @@
 
 ### 🚀 Current Focus
 
-- 🛡️ Developing **[Sec-PBQ](https://github.com/8eight8toes8/Sec-PBQ)** - Interactive Security+ (SY0-701) PBQ training platform for CompTIA certification prep
+- 🛡️ Developing **Sec-PBQ** - Interactive Security+ (SY0-701) PBQ training platform for CompTIA certification prep
 - 📊 Building SOC operations documentation and SIEM integration guides
 - 🌐 Creating cybersecurity educational content and technical write-ups
 - 📚 Actively pursuing CompTIA Network+ and A+ recertification
 
 ---
 
-### 💼 Recent Accomplishments (December 2025)
+### 💼 Recent Accomplishments (December 2024)
 
  - ✅ **SANS Academy Acceptance (Winter 2025)** - Selected for highly competitive cybersecurity scholarship program
 - ✅ **Sec-PBQ Platform Refactoring** - Promoted new feature branch to production, implemented professional documentation
@@ -52,12 +52,6 @@
 
 ### 📂 Featured Projects
 
-#### 🎯 [Sec-PBQ](https://github.com/8eight8toes8/Sec-PBQ) (Private)
-**Interactive Security+ (SY0-701) PBQ training platform**
-- Hands-on labs for CompTIA certification prep
-- Built with React + TypeScript
-- Professional documentation and modular architecture
-
 #### 🔍 [cybersecurity-writeups](https://github.com/8eight8toes8/cybersecurity-writeups) (Public)
 **Technical documentation for cybersecurity tools, penetration testing methodologies, and SOC operations**
 - Security tool tutorials
@@ -70,16 +64,13 @@
 - Suricata IDS deployment on WSL2
 - Network monitoring best practices
 
-#### 🎖️ [Google-Studio-Code-First-Build](https://github.com/8eight8toes8/Google-Studio-Code-First-Build) (Private)
-**🏆 First Build - Original Sec-PBQ app preserved as a milestone trophy**
-
 ---
 
 ### 📜 Certifications
 
 - 🎓 **CompTIA Network+** (Active)
 - 🎓 **CompTIA A+** (Active)
-- 📋 **CompTIA Security+** (Expired 05/25 - Recertifying)
+- 📋 **CompTIA Security+** (Expired 05/24 - Recertifying)
 - 🎯 **HackTheBox Academy** - Linux Fundamentals, OS Fundamentals, Information Security Foundations, SOC Analyst Prerequisites
 - 🏅 **SANS Aptitude Assessment** - 4/5 Stars
 
@@ -88,7 +79,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: [jhenderson@mccoe.org](mailto:jhenderson@mccoe.org)
-- 💼 LinkedIn: [Connect with me](#) <!-- Add your LinkedIn URL -->
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/john-henderson-12b4b939a/)
 - 🌐 GitHub: [@8eight8toes8](https://github.com/8eight8toes8)
 - 📱 Phone: 417-901-3198
 
