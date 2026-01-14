@@ -85,10 +85,11 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 91
+
 
 - 📧 Email: [jhenderson@mccoe.org](mailto:jhenderson@mccoe.org)
-- 💼 LinkedIn: [Connect with me](#) <!-- Add your LinkedIn URL -->
+- 💼 LinkedIn: [Connect with me!](https://www.linkedin.com/in/john-henderson-12b4b939a/)
 - 🌐 GitHub: [@8eight8toes8](https://github.com/8eight8toes8)
 - 📱 Phone: 417-901-3198
 
