@@ -106,7 +106,8 @@
 - 🎮 Gaming enthusiast (Kingdom Come: Deliverance 2, Europa Universalis V, Subnautica, XCOM2)
 - 🚁 Drone flying hobbyist
 - 🐕 Service dog trainer
-- 🍄 Mycology enthusiast
+- 🍄 108108
+- [](url)
 - 🥊 Boxing analysis fan
 
 ---
